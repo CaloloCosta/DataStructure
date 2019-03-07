@@ -1,4 +1,4 @@
-package queueandstack;
+package StackImplementation;
 // last in first out LIFO
 public class Stack<T> {
     SLL sll = new SLL();
